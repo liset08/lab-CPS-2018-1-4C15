@@ -117,7 +117,7 @@ public class EmployeeDAOTest {
 
 		logger.info("--");
 		
-		String LOGIN = "aromero" + (int) (Math.random() * 100);
+		String LOGIN = "aromero345" + (int) (Math.random() * 100);
 		//logger.info(LOGIN);
 		String PWD = "123";
 		String FIRSTNAME = "Alberto";
